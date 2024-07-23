@@ -1,7 +1,6 @@
 # is1abCTF-2024-Challenges
 
 ```
-is1abCTF-2024-Challenges
 │
 ├── README.md
 │
