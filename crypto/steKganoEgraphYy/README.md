@@ -18,6 +18,7 @@ KEY 被我藏起來了 找出來會對你有幫助的\
 Salt : 不客氣 我也很高興認識你 祝你好運 is1abCTF歡迎你\
 \
 Hints :\
-1.有聽過 AES-256-CBC 嗎 ?\
-2.認識一下 LSB 隱寫術 RRRRRRRRRRRR
-
+💡 1.有聽過 AES-256-CBC 嗎 ?\
+💡 2.認識一下 LSB 隱寫術 RRRRRRRRRRRR\
+\
+**下載附件** 👉 steKganoEgraphYy.zip
