@@ -1,5 +1,5 @@
 # is1abCTF-2024-Challenges
-> Mon, 02 Sep. 2024, 09:00 (UTC 01:00) — Mon, 09 Sep. 2024, 23:59 (UTC 15:59)\
+> Mon, 02 Sep. 2024, 09:00 (UTC 01:00) — Mon, 09 Sep. 2024, 23:59 (UTC 15:59)
 
 CTF challenges repository I created.\
 This was my first time creating a CTF quiz, and also a first for our lab.\
