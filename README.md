@@ -15,7 +15,7 @@ is1abCTF-2024-Challenges
 ├── Pic-Challenge-Message
 │   ├── BabyRSA.png
 │   ├── is1abBestRadio.png
-│   ├── Pseudo Encrytion.png
+│   ├── Pseudo-Encrytion.png
 │   └── steKganoEgraphYy.png
 │
 ├── crypto
@@ -30,7 +30,7 @@ is1abCTF-2024-Challenges
 └── misc
     ├── Pseudo Encrytion
     │   ├── README.md
-    │   └── Pseudo Encrytion.zip
+    │   └── Pseudo_Encrytion.zip
     │   
     └── is1abBestRadio
         ├── README.md
