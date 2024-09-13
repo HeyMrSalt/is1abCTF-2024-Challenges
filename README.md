@@ -28,7 +28,7 @@ is1abCTF-2024-Challenges
 │       └── steKganoEgraphYy.zip
 │   
 └── misc
-    ├── Pseudo Encrytion
+    ├── Pseudo_Encrytion
     │   ├── README.md
     │   └── Pseudo_Encrytion.zip
     │   
