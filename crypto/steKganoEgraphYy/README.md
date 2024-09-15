@@ -1,11 +1,8 @@
-# steKganoEgraphYy
-1000 pts
+## 🔑 steKganoEgraphYy (1000 pts)
 
-========================\
-**Author: HeyMrSalt** \
-**Difficulty: Easy** \
-**Category: Crypto** \
-========================\
+═════════════════════════════════\
+**Author:** HeyMrSalt **Difficulty:** Easy **Category:** Crypto\
+═════════════════════════════════\
 \
 Salt : 哈瞜！歡迎來到 is1abCTF，我是 Salt。有什麼問題能協助你嗎？\
 挑戰者 : 哈瞜！Salt。請問一下這題的 Flag 是什麼？\
@@ -22,8 +19,9 @@ Hints :\
 💡 1.有聽過 AES-256-CBC 嗎 ?\
 💡 2.認識一下 LSB 隱寫術 RRRRRRRRRRRR\
 \
-**下載附件** 👉 steKganoEgraphYy.zip
+**下載附件** 👉 [steKganoEgraphYy.zip](https://github.com/HeyMrSalt/is1abCTF-2024-Challenges/raw/main/crypto/steKganoEgraphYy/steKganoEgraphYy.zip)
 
+---
 
 # Pic-Challenge-Message
 ![Untitled](../../Appendix-pic-challenge-message/steKganoEgraphYy.png)
