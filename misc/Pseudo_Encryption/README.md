@@ -10,5 +10,5 @@ Non-Pseudo Flag & Pseudo Encryption\
 
 ---
 # Pic-Challenge-Message
-![Untitled](../../Pic-Challenge-Message/Pseudo-Encrytion.png)
+![Untitled](../../Appendix-pic-challenge-message/Pseudo-Encrytion.png)
 
