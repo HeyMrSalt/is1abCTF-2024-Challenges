@@ -23,3 +23,7 @@ Hints :\
 💡 2.認識一下 LSB 隱寫術 RRRRRRRRRRRR\
 \
 **下載附件** 👉 steKganoEgraphYy.zip
+
+
+# Pic-Challenge-Message
+![Untitled](../../Appendix-pic-challenge-message/steKganoEgraphYy.png)
