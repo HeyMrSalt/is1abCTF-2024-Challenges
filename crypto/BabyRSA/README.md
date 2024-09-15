@@ -1,4 +1,4 @@
-### 🎮 BabyRSA (1000 pts)
+## 🔑 BabyRSA (1000 pts)
 
 ════════════════════════════════\
 **Author:** HeyMrSalt **Difficulty:** Baby **Category:** Crypto\
