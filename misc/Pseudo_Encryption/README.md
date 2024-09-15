@@ -1,4 +1,4 @@
-### 🎮 Pseudo Encryption (1000 pts)
+## 🎮 Pseudo Encryption (1000 pts)
 
 ════════════════════════════════\
 **Author:** HeyMrSalt **Difficulty:** Baby **Category:** Misc\
