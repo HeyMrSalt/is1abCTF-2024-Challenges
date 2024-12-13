@@ -1,4 +1,4 @@
-## 🔑 steKganoEgraphYy (1000 pts)
+## 🔑 steKganoEgraphYy (1000 pts) [![Hits](https://hits.sh/github.com/heymrslat/is1abCTF-2024-Challenges/tree/main/crypto/steKganoEgraphYy.svg)](https://hits.sh/github.com/heymrslat/is1abCTF-2024-Challenges/tree/main/crypto/steKganoEgraphYy)
 
 ═════════════════════════════════\
 **Author:** HeyMrSalt **Difficulty:** Easy **Category:** Crypto\
