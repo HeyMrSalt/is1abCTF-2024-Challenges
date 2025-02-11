@@ -12,5 +12,5 @@ Cute Babyyyyyyyyyyyyyyyyyyyyy\
 
 ---
 # Pic-Challenge-Message
-![Untitled](../../Appendix-pic-challenge-message/BabyRSA.png)
+![Untitled](../../Appendix-img/BabyRSA.png)
 
