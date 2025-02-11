@@ -12,7 +12,7 @@ is1abCTF-2024-Challenges
 │
 ├── README.md
 │
-├── Appendix-pic-challenge-message
+├── Appendix-img
 │   ├── BabyRSA.png
 │   ├── is1abBestRadio.png
 │   ├── Pseudo-Encrytion.png
