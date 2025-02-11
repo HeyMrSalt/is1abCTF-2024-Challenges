@@ -24,4 +24,4 @@ Hints :\
 ---
 
 # Pic-Challenge-Message
-![Untitled](../../Appendix-pic-challenge-message/steKganoEgraphYy.png)
+![Untitled](../../Appendix-img/steKganoEgraphYy.png)
