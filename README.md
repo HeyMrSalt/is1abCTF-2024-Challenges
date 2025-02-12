@@ -1,4 +1,4 @@
-# is1abCTF-2024-Challenges [![Hits](https://hits.sh/github.com/heymrslat/is1abCTF-2024-Challenges.svg)](https://hits.sh/github.com/heymrslat/is1abCTF-2024-Challenges/)
+# is1abCTF-2024-Challenges [![Hits](https://hits.sh/github.com/heymrsalt/is1abCTF-2024-Challenges.svg)](https://hits.sh/github.com/heymrsalt/is1abCTF-2024-Challenges/)
 > Mon, 02 Sep. 2024, 09:00 (UTC 01:00) — Mon, 09 Sep. 2024, 23:59 (UTC 15:59)
 
 CTF challenges repository I created.\
